@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "sourceMap": true,
+        "declaration": true,
+        "declarationMap": true,
+        "lib": ["ES6"],
+        "module": "CommonJS"
+    },
+    "files": [
+        "main.ts"
+    ]
+}
